@@ -172,8 +172,7 @@ If we followed the method above, we will get $3.2c$ on $L_A$ and $2c$ on $L_B$. 
 
 #### Given a lottery $L-[p, \$X;(1-p),\$Y]$
 - The *expected monetary value* is $EMV(L)=pX+(1-p)Y$
-- The *utility* is $U(L)=pU(\$X)+(1-p)U(\$Y)$
-- Typically, $U(L)<U(EMV(L))$
+
 - In this sense, people will be *risk-averse*.
 
 *For example,* how much would you pay for a lottery ticket $L=[0.5, \$1000;0.5,\$0]$?
